@@ -1,0 +1,1 @@
+document.getElementById("send").addEventListener("click",()=>{document.getElementById("note").textContent="Thanks! This demo form is ready to connect to your real email, CRM, WhatsApp or backend.";});
